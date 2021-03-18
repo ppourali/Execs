@@ -1,0 +1,1 @@
+Add Cache refresh button, and reduced to only open profiles.
